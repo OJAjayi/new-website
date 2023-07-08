@@ -1,0 +1,157 @@
+body 
+{background-color: orange;}
+
+h1 {color: black;}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+
+  h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 5;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 5px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #mp3-player {
+    margin-top: 50px;
+  }
+  
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .image-placeholder {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .image-placeholder img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .image-placeholder p {
+    margin-top: 10px;
+  }
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+  <style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.artist-image {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
+
+}
+    
+#footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 20px 0;
+  background-color: #f5f5f5;
+}
+
+#footer img {
+  display: inline-block;
+  height: 50px;
+  margin: 0 10px;
+}
+
+#mp3-player {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+audio {
+  width: 300px;
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+</style>
+</head>
+<body>
